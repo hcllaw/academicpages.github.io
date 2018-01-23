@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-For full CV, download [[pdf](http://hcllaw.github.io/files/law.pdf)]
+For full CV, download [[__pdf__](http://hcllaw.github.io/files/law.pdf)]
 
 Education
 ======
