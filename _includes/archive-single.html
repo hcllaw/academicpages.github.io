@@ -62,12 +62,14 @@
         <p><a href=" {{ post.paperurl }} "><u>Paper</u></a>
     {% endif %}
     
-    {% if post.software %}
-        <a href=" {{ post.software }} "><u>Software</u></a>
-    {% endif %}
-
-    {% if post.video %}
-        <a href=" {{ post.video }} "><u>Video</u></a></p>
+    {% if post.paperurl and post.software and post.video %}
+      <p><a href=" {{ post.paperurl }} "><u>Paper</u></a> <a href=" {{ post.software }} "><u>Software</u></a> <a href=" {{ post.video }} "><u>Video</u></a></p>
+    {% elsif post.paperurl and post.software %}
+       <p><a href=" {{ post.paperurl }} "> <u>Paper</u> </a> <a href=" {{ post.software }} "></p>
+    {% elsif post.paperurl and post.video %}
+       <p><a href=" {{ post.paperurl }} "> <u>Paper</u> </a> <a href=" {{ post.video }} "></p>
+    {% elsif post.paperurl %}
+        <p><a href=" {{ post.paperurl }} "><u>Paper</u></a></p>
     {% endif %}
 
   </article>
