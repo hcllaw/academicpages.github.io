@@ -5,6 +5,6 @@ collection: publications
 authors: '**H. Law**, D. Sutherland, D. Sejdinovic, S. Flaxman'
 date: 2018-01-01
 venue: 'Artificial Intelligence and Statistics (AISTATS)'
-paperurl: 'http://academicpages.github.io/files/aistats2018.pdf'
+paperurl: 'http://hcllaw.github.io/files/aistats2018.pdf'
 ---
 
