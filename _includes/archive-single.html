@@ -32,9 +32,11 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
+      </h2>
     {% if post.authors %}
       <i>{{ post.authors | markdownify }}</i>
     {% endif %}
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -61,11 +63,11 @@
     {% endif %}
     
     {% if post.software %}
-    <i>"  "<i><a href=" {{ post.software }} "><u>Software</u></a>
+    <i>  <i><a href=" {{ post.software }} "><u>Software</u></a>
     {% endif %}
 
     {% if post.video %}
-    <i>"  "<i><a href=" {{ post.video }} "><u>Video</u></a>
+    <i>  <i><a href=" {{ post.video }} "><u>Video</u></a>
     {% endif %}
 
 </article>
