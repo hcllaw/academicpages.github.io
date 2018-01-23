@@ -1,5 +1,5 @@
 ---
-title: "Testing and Learning with Symmetric Noise Invariance"
+title: "Testing and Learning on Distribution with Symmetric Noise Invariance"
 collection: publications
 authors: "**H. Law**, C. Yau, D. Sejdinovic"
 software: "https://github.com/hcllaw/phase_learn"
