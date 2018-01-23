@@ -59,16 +59,16 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} "><u>Paper</u></a>
+        <p><a href=" {{ post.paperurl }} "><u>Paper</u></a>
     {% endif %}
     
     {% if post.software %}
-    <i>  <i><a href=" {{ post.software }} "><u>Software</u></a>
+        <a href=" {{ post.software }} "><u>Software</u></a>
     {% endif %}
 
     {% if post.video %}
-    <i>  <i><a href=" {{ post.video }} "><u>Video</u></a>
+        <a href=" {{ post.video }} "><u>Video</u></a></p>
     {% endif %}
 
-</article>
+  </article>
 </div>
