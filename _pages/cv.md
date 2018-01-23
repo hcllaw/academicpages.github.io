@@ -9,6 +9,7 @@ redirect_from:
 {% include base_path %}
 
 For full CV, download [[pdf](http://hcllaw.github.io/files/law.pdf)]
+
 Education
 ======
 * PhD in Statistics and Machine Learning, University Of Oxford, 2019 (expected)
