@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ho Chung Leon Law Personal Webpage"
+title                    : "Personal Webpage"
 title_separator          : "-"
 name                     : &name "Ho Chung Leon Law"
 description              : &description "DPhil Student at University Oxford"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Ho Chung Leon Law"
   avatar           : "profile.png"
-  bio              : "Second Year PhD Student in Machine Learning"
+  bio              : "PhD Student in Machine Learning"
   location         : "University Of Oxford, UK"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=l-gFcY8AAAAJ&hl=en&oi=sra"
