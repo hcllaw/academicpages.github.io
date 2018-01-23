@@ -63,6 +63,14 @@
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
+    
+    {% if post.software %}
+      <p>Software <a href=" {{ post.software }} "><u>here</u></a></p>
+    {% endif %}
+
+    {% if post.video %}
+      <p>Video <a href=" {{ post.video }} "><u>here</u></a></p>
+    {% endif %}
 
   </article>
 </div>
