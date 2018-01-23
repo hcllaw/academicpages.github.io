@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Webpage"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Ho Chung Leon Law"
 description              : &description "DPhil Student at University Oxford"
