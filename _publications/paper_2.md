@@ -7,5 +7,5 @@ video: "https://www.youtube.com/watch?v=kKpbHXZ1qmU"
 #permalink: /publication/paper_2.md
 date: 2017-12-04
 venue: 'Advances in Neural Information Processing Systems (NIPS)'
-paperurl: 'http://academicpages.github.io/files/nips2017.pdf'
+paperurl: 'http://hcllaw.github.io/files/nips2017.pdf'
 ---
