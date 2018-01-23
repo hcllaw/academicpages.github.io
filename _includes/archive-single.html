@@ -34,7 +34,7 @@
       {% endif %}
     </h2>
     {% if post.authors %}
-      <i>{{ post.authors }}</i>
+      <i>{{ post.authors | markdownify }}</i>
     {% endif %}
     
     
