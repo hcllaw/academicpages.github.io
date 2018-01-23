@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am second year PhD student in the OxWaSP CDT programe at the University of Oxford supervised by Professor Dino Sejdinovic and Dr Christopher Yau. My research interests lies in the field of machine learning, kernel methods, Gaussian Process and deep learning. Currently, I am working on a project on aggregate output learning and learning from label proportions. 
+I am a second year PhD student of Machine Learning group at the University of Oxford supervised by Professor Dino Sejdinovic and Dr Christopher Yau. 
 
+My research interests lies in the field of kernel methods, Gaussian Process and deep learning. In particular, I will like to see how all these approaches can be combined and applied onto real life problems. Currently, I am working on a project on aggregate output learning, where we have the scenario that we only have label summaries for bags of data, but we would like to predict label at the individual label level.
+
+Full Curriculum vitae [[pdf](law.pdf)]
 
