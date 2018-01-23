@@ -57,11 +57,11 @@
     {% endif %}
     
     {% if post.paperurl and post.software and post.video %}
-      <p><a href=" {{ post.paperurl }} "><u>Paper</u></a> &nbsp<a href=" {{ post.software }} "><u>Software</u></a>  &nbsp<a href=" {{ post.video }} "><u>Video</u></a></p>
+      <p><a href=" {{ post.paperurl }} "><u>Paper</u></a> <pre> ... </pre> <a href=" {{ post.software }} "><u>Software</u></a>  <pre> ... </pre> <a href=" {{ post.video }} "><u>Video</u></a></p>
     {% elsif post.paperurl and post.software %}
-       <p><a href=" {{ post.paperurl }} "> <u>Paper</u> </a> &nbsp <a href=" {{ post.software }} "></p>
+       <p><a href=" {{ post.paperurl }} "> <u>Paper</u> </a> <pre> ... </pre> <a href=" {{ post.software }} "></p>
     {% elsif post.paperurl and post.video %}
-       <p><a href=" {{ post.paperurl }} "> <u>Paper</u> </a> &nbsp <a href=" {{ post.video }} "></p>
+       <p><a href=" {{ post.paperurl }} "> <u>Paper</u> </a> <pre> ... </pre> <a href=" {{ post.video }} "></p>
     {% elsif post.paperurl %}
         <p><a href=" {{ post.paperurl }} "><u>Paper</u></a></p>
     {% endif %}
