@@ -10,30 +10,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* PhD in Statistics and Machine Learning, University Of Oxford, 2019 (expected)
+* Part III: Master of Advanced Study, Mathematical Statistics in University Of Cambridge, 2014
+* BSc Mathematics in Imperial College London, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2017: Quantitative Research Intern
+  * Amber AI, Hong Kong 
+  * Project: Construct a 1-step, end-to-end stock portfolio Machine Learning Model.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2016: Data Science Intern
+  * Printastic, London, UK
+  * Project: Prediction of user's intent for purchase over time using App data.
+
+* Summer 2016: NLP Data Science Intern
+  * Styloko, London, UK
+  * Project: Cluster fashion words with similar meaning, to construct a similarity measure between descriptions.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming 
+  * Language: Python, R, MATLAB, C++, Lua (in order of experience)
+  * Libraries: TensorFlow, Torch
+
+Language 
+======
+* English (Native), Cantonese (Native), Mandarin (Intermediate), Japanese (Basic)
 
 Publications
 ======
