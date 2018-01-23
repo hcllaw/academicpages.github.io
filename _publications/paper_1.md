@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Approaches to Distribution Regression"
 collection: publications
-permalink: /publication/paper_1
+permalink: /publication/paper_1.md
 #excerpt: 'Test'
 date: 2018-01-01
 venue: 'Artificial Intelligence and Statistics (AISTATS) 2018'
