@@ -8,6 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
+For full CV, download [[pdf](http://hcllaw.github.io/files/law.pdf)]
 Education
 ======
 * PhD in Statistics and Machine Learning, University Of Oxford, 2019 (expected)
@@ -22,7 +23,7 @@ Work experience
 
 * Summer 2016: Data Science Intern
   * Printastic, London, UK
-  * Project: Prediction of user's intent for purchase over time using App data.
+  * Project: Prediction of user's intent to purchase over time using App data.
 
 * Summer 2016: NLP Data Science Intern
   * Styloko, London, UK
@@ -30,9 +31,9 @@ Work experience
 
 Skills
 ======
-* Programming 
-  * Language: Python, R, MATLAB, C++, Lua (in order of experience)
-  * Libraries: TensorFlow, Torch
+* Programming (in order of experience)
+  * Language: Python, R, MATLAB, C++, Lua
+  * Libraries: TensorFlow, Torch 
 
 Language 
 ======
