@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Approaches to Distribution Regression"
 collection: publications
-permalink: /publication/paper_1.md
+#permalink: /publication/paper_1.md
 authors: '**H. Law**, D. Sutherland, D. Sejdinovic, S. Flaxman'
 date: 2018-01-01
 venue: 'Artificial Intelligence and Statistics (AISTATS)'
