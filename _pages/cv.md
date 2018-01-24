@@ -22,7 +22,7 @@ Work experience
   * Quantitative Research Intern
   * Project: Construct a 1-step, end-to-end stock portfolio machine learning Model
 
-* Summer 2016: Printastic, London
+* Summer 2016: Printastic, London, UK
   * Data Science Intern
   * Project: Prediction of user's intent to purchase over time using app data
 
