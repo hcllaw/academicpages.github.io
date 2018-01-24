@@ -18,17 +18,18 @@ Education
 
 Work experience
 ======
-* Fall 2017: Quantitative Research Intern
-  * Amber AI, Hong Kong 
-  * Project: Construct a 1-step, end-to-end stock portfolio Machine Learning Model.
+* Fall 2017: Amber AI, Hong Kong
+  * Quantitative Research Intern
+  * Project: Construct a 1-step, end-to-end stock portfolio machine learning Model
 
-* Summer 2016: Data Science Intern
+* Summer 2016: Printastic, London
+  * Data Science Intern
   * Printastic, London, UK
-  * Project: Prediction of user's intent to purchase over time using App data.
+  * Project: Prediction of user's intent to purchase over time using app data
 
-* Summer 2016: NLP Data Science Intern
-  * Styloko, London, UK
-  * Project: Cluster fashion words with similar meaning, to construct a similarity measure between descriptions.
+* Summer 2016: Styloko, London, UK
+  * NLP Data Science Intern
+  * Project: Cluster fashion words with similar meanings, to construct a similarity measure between descriptions
 
 Skills
 ======
@@ -42,6 +43,9 @@ Language
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Bayesian Approaches to Distribution Regression (First Author) <br />
+  Artificial Intelligence and Statistics (AISTATS), 2018
+
+* Testing and Learning on Distributions with Symmetric Noise Invariance (First Author) <br />
+  Advances in Neural Information Processing Systems (NIPS), 2017
+
