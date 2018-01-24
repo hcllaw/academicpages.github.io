@@ -43,9 +43,9 @@ Language
 
 Publications
 ======
-* Bayesian Approaches to Distribution Regression (First Author) <br />
-  __Artificial Intelligence and Statistics (AISTATS), 2018__
+* Bayesian Approaches to Distribution Regression <br />
+  _Artificial Intelligence and Statistics (AISTATS), 2018_
 
-* Testing and Learning on Distributions with Symmetric Noise Invariance (First Author) <br />
-  __Advances in Neural Information Processing Systems (NIPS), 2017__
+* Testing and Learning on Distributions with Symmetric Noise Invariance  <br />
+  _Advances in Neural Information Processing Systems (NIPS), 2017_
 
