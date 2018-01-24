@@ -44,10 +44,10 @@ Language
 Publications
 ======
 * Bayesian Approaches to Distribution Regression <br />
-  **H. Law**, D. Sutherland, D. Sejdinovic, S. Flaxman <br />
+  _**H. Law**, D. Sutherland, D. Sejdinovic, S. Flaxman_ <br />
   _Artificial Intelligence and Statistics (AISTATS), 2018_
 
 * Testing and Learning on Distributions with Symmetric Noise Invariance  <br />
-  **H. Law**, C. Yau, D. Sejdinovic <br />
+  _**H. Law**, C. Yau, D. Sejdinovic_ <br />
   _Advances in Neural Information Processing Systems (NIPS), 2017_
 
