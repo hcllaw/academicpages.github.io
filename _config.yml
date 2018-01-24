@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Ho Chung Leon Law"
 title_separator          : "-"
 name                     : &name "Ho Chung Leon Law"
-description              : &description "Ho Chung Leon Law Webpage"
+description              : &description "Academic page of Ho Chung Leon Law. Research on machine learning and kernel methods."
 url                      : https://hcllaw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hcllaw.github.io"
