@@ -14,5 +14,6 @@ My research interests lies in the field of kernel methods, Gaussian processes an
 
 Currently, I am working on a project on aggregate output learning, where we have the scenario that we only have label summaries for bags of data, but we would like to predict labels at the individual level.
 
+Software for published work [[github](https://github.com/hcllaw/phase_learn)]
 Curriculum vitae [[pdf](http://hcllaw.github.io/files/law_4.pdf)]
 
