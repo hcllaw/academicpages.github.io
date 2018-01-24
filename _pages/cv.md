@@ -24,7 +24,6 @@ Work experience
 
 * Summer 2016: Printastic, London
   * Data Science Intern
-  * Printastic, London, UK
   * Project: Prediction of user's intent to purchase over time using app data
 
 * Summer 2016: Styloko, London, UK
