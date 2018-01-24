@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<meta name="google-site-verification" content="XpiZ-sZi54HC2ENp4Y2_QKH9AhEj8KARZHnjP-_zKOI" />
 I am a second year PhD student of Machine Learning group at the University of Oxford supervised by Professor Dino Sejdinovic and Dr Christopher Yau. 
 
 My research interests lies in the field of kernel methods, Gaussian processes and deep learning. In particular, I am interested in how these approaches can be combined and applied onto real life problems. 
