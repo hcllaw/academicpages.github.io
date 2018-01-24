@@ -39,13 +39,15 @@ Skills
 
 Language 
 ======
-* English (Native), Cantonese (Native), Mandarin (Intermediate), Japanese (Basic)
+* English (native), Cantonese (native), Mandarin (intermediate), Japanese (basic)
 
 Publications
 ======
 * Bayesian Approaches to Distribution Regression <br />
+  **H. Law**, D. Sutherland, D. Sejdinovic, S. Flaxman <br />
   _Artificial Intelligence and Statistics (AISTATS), 2018_
 
 * Testing and Learning on Distributions with Symmetric Noise Invariance  <br />
+  **H. Law**, C. Yau, D. Sejdinovic <br />
   _Advances in Neural Information Processing Systems (NIPS), 2017_
 
