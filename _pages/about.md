@@ -11,7 +11,7 @@ I am a second year PhD student of Machine Learning group at the University of Ox
 
 My research interests lie in the field of kernel methods, Gaussian processes and deep learning. In particular, I am interested in how these approaches can be combined and applied onto real life problems. 
 
-Currently, I am working on a project on aggregate output learning, where we only have summary of labels for bags of data, however we would like to predict labels at the individual level.
+Currently, I am working on a project on aggregate output learning, where we only have summary of labels for bags of data, however we would like to predict labels (and its uncertainty) at the individual level. 
 
 Software for published work [[github](https://github.com/hcllaw/phase_learn)]
 
