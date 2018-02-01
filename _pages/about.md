@@ -15,5 +15,5 @@ Currently, I am working on a project on aggregate output learning, where we only
 
 Software for published work [[github](https://github.com/hcllaw/phase_learn)]
 
-Curriculum vitae [[pdf](http://hcllaw.github.io/files/law_4.pdf)]
+Curriculum vitae [[pdf](http://hcllaw.github.io/files/leon-cv-2.pdf)]
 
