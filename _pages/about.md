@@ -13,5 +13,5 @@ My research interests lie in the field of kernel methods, Gaussian processes and
 
 Software for published work [[github](https://github.com/hcllaw)]
 
-Curriculum vitae [[pdf](http://hcllaw.github.io/files/leon-cv-6.pdf)]
+Curriculum vitae [[pdf](http://hcllaw.github.io/files/leon-cv-7.pdf)]
 
