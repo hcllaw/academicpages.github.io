@@ -1,7 +1,7 @@
 ---
 title: 'A Differentially Private Kernel Two-Sample Test'
 collection: publications
-authors: 'A. Raj\*, **H. Law** \*, D. Sejdinovic, M. Park'
+authors: 'A. Raj\*, **H. Law**\*, D. Sejdinovic, M. Park'
 excerpt: 'Kernel two-sample testing is a useful statistical tool in determining whether data samples arise from different 
 distributions without imposing any parametric assumptions on those distributions. However, raw data samples can expose 
 ensitive information about individuals who participate in scientific studies, which makes the current tests vulnerable 
