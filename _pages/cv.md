@@ -18,6 +18,14 @@ Education
 
 Work experience
 ======
+* Summer 2018: Tencent AI Lab, Shenzhen
+  * Research Intern
+  * Project: Construct new methodology for Bayesian optimisation (BO), used for automatic hyperparameter selection (AutoML)
+
+* Spring 2018: Institute of Statistical Mathematics, Japan
+  * Research Intern
+  * Project: Construct a ML model for predicting malaria incidences, given real data with more than 1 million points
+
 * Fall 2017: Amber AI, Hong Kong
   * Quantitative Research Intern
   * Project: Construct a 1-step, end-to-end stock portfolio machine learning Model
@@ -33,7 +41,7 @@ Work experience
 Skills
 ======
 * Programming (in order of experience)
-  * Language: Python, R, MATLAB, C++, Lua
+  * Language: Python, R, MATLAB
   * Libraries: TensorFlow, Torch 
 
 Language 
@@ -42,6 +50,10 @@ Language
 
 Publications
 ======
+* Variational Learning on Aggregate Outputs with Gaussian Processes <br />
+  _**H. Law**, D. Sejdinovic, E. Cameron, T. CD Lucas, S. Flaxman, K. Battle, K. Fukumizu_ <br />
+  _Advances in Neural Information Processing Systems (NIPS), 2018_
+  
 * Bayesian Approaches to Distribution Regression <br />
   _**H. Law**, D. Sutherland, D. Sejdinovic, S. Flaxman_ <br />
   _Artificial Intelligence and Statistics (AISTATS), 2018_
