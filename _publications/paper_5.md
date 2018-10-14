@@ -1,7 +1,7 @@
 ---
 title: 'Hyperparameter Learning via Distributional Transfer'
 collection: publications
-authors: '**H. Law**, P.Zhao, J. Huang, D. Sejdinovic'
+authors: '**H. Law**, P. Zhao, J. Huang, D. Sejdinovic'
 excerpt: 'Bayesian optimisation is a popular technique for hyperparameter learning 
 but typically requires initial exploration even in cases where potentially similar prior
 tasks have been solved. We propose to transfer information across tasks using
