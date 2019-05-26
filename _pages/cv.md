@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-For full CV, download [[__pdf__](http://hcllaw.github.io/files/leon-cv-7.pdf)]
+For full CV, download [[__pdf__](http://hcllaw.github.io/files/leon-cv-4.pdf)]
 
 Education
 ======
@@ -18,6 +18,14 @@ Education
 
 Work experience
 ======
+* Spring 2019: Citadel Securities, Hong Kong 
+  * Quantitative Research Intern
+  * Project: Study on market data characteristics for alpha development
+  
+* Summer 2018: Tencent AI Lab, Shenzhen
+  * Research Intern
+  * Project: Construct new methodology for Bayesian optimisation (BO), used for automatic hyperparameter selection (AutoML)
+
 * Summer 2018: Tencent AI Lab, Shenzhen
   * Research Intern
   * Project: Construct new methodology for Bayesian optimisation (BO), used for automatic hyperparameter selection (AutoML)
@@ -52,7 +60,7 @@ Publications
 ======
 * Variational Learning on Aggregate Outputs with Gaussian Processes <br />
   _**H. Law**, D. Sejdinovic, E. Cameron, T. CD Lucas, S. Flaxman, K. Battle, K. Fukumizu_ <br />
-  _Advances in Neural Information Processing Systems (NIPS), 2018_
+  _Advances in Neural Information Processing Systems (NeurIPS), 2018_
   
 * Bayesian Approaches to Distribution Regression <br />
   _**H. Law**, D. Sutherland, D. Sejdinovic, S. Flaxman_ <br />
@@ -60,5 +68,5 @@ Publications
 
 * Testing and Learning on Distributions with Symmetric Noise Invariance  <br />
   _**H. Law**, C. Yau, D. Sejdinovic_ <br />
-  _Advances in Neural Information Processing Systems (NIPS), 2017_
+  _Advances in Neural Information Processing Systems (NeurIPS), 2017_
 
