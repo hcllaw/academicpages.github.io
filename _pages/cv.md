@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-For full CV, download [[__pdf__](http://hcllaw.github.io/files/leon-cv-4.pdf)]
+For full CV, download [[__pdf__](http://hcllaw.github.io/files/leon_cv-4.pdf)]
 
 Education
 ======
@@ -22,10 +22,6 @@ Work experience
   * Quantitative Research Intern
   * Project: Study on market data characteristics for alpha development
   
-* Summer 2018: Tencent AI Lab, Shenzhen
-  * Research Intern
-  * Project: Construct new methodology for Bayesian optimisation (BO), used for automatic hyperparameter selection (AutoML)
-
 * Summer 2018: Tencent AI Lab, Shenzhen
   * Research Intern
   * Project: Construct new methodology for Bayesian optimisation (BO), used for automatic hyperparameter selection (AutoML)
