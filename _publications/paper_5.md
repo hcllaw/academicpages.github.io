@@ -9,6 +9,6 @@ kernel embeddings of distributions of training datasets used in those tasks. The
 resulting method has a faster convergence compared to existing baselines, in some
 cases requiring only a few evaluations of the target objective.'
 date: 2018-10-14
-venue: 'Meta-learning workshop (NeurIPS)'
-paperurl: 'http://hcllaw.github.io/files/main.pdf'
+venue: ‘Advances in Neural Information Processing Systems (NeurIPS)’
+paperurl: 'http://hcllaw/github.io/files/main.pdf'
 ---
